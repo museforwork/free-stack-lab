@@ -1,3 +1,5 @@
+const LAST_FULL_CHECK = "2026-10-18";
+
 const TESTED = [
   { name: "AgentMail", cat: "Email for agents", date: "2026-10-18",
     detail: "The agent's own inbox: museforwork@agentmail.to. API-first email, Bearer key auth, no OAuth.",
